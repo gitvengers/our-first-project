@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
 	System.out.println( "Bye World!");
+	System.out.println( "Jenkins Test 2" );
     }
 }
